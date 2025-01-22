@@ -28,6 +28,10 @@ body {
 
 /* My CSS */
 
+body {
+  min-width: 840px;
+}
+
 .emojis {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
